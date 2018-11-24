@@ -2,7 +2,7 @@
 
 ## Third party assets
 You need to import the following assets.
-- [Oculus Lipsync Unity Plugin 1.30.0](https://developer.oculus.com/downloads/package/oculus-lipsync-unity/)
+- [Oculus Lipsync Unity Plugin 1.30.0](https://developer.oculus.com/downloads/package/oculus-lipsync-unity/1.30.0/)
 
 The following assets are included in this project.
 - [UniVRM v0.44](https://github.com/dwango/UniVRM/releases/tag/v0.44)  
