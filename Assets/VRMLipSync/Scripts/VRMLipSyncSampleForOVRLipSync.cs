@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class VRMLipSyncSample : MonoBehaviour
+public class VRMLipSyncSampleForOVRLipSync : MonoBehaviour
 {
 	public AudioSource audioSource;
 	public OVRLipSyncContext lipSyncContext;
