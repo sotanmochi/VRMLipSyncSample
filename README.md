@@ -1,12 +1,27 @@
 # VRM LipSync Sample
 
+Oculus LipSync
+
+<img src="./LipSyncUsingOVRLipSync.gif" width="50%">
+
+SALSA
+
+<img src="./LipSyncUsingSALSA.gif"  width="50%">
+
 ## Third party assets
 You need to import the following assets.
 - [Oculus Lipsync Unity Plugin 1.30.0](https://developer.oculus.com/downloads/package/oculus-lipsync-unity/1.30.0/)
 
+- [SALSA With RandomEyes](https://assetstore.unity.com/packages/tools/animation/salsa-with-randomeyes-16944)
+
 The following assets are included in this project.
 - [UniVRM v0.44](https://github.com/dwango/UniVRM/releases/tag/v0.44)  
 Licensed under the MIT License. Copyright (c) DWANGO Co., Ltd.  
+
+The following 3D character models are included in this project.
+- [Vita](https://hub.vroid.com/characters/6193066630030526355/models/3525604181073039892)
+
+- [Darkness_Shibu](https://hub.vroid.com/characters/675572020956181239/models/6535695942068248968)
 
 ## License
 - [MIT License](https://github.com/sotanmochi/VRMLipSyncSample/blob/master/LICENSE.txt)
