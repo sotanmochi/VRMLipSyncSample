@@ -35,11 +35,13 @@ public class VRMLipSyncSampleForOVRLipSync : MonoBehaviour
     {
 #if UNITY_EDITOR_WIN || UNITY_STANDALONE_WIN
         var path = VRM.FileDialogForWindows.FileDialog("open VRM", ".vrm");
+#else
+        var path = Application.streamingAssetsPath + "/Vita.vrm";
+#endif
         if (!string.IsNullOrEmpty(path))
         {
 			VRM.VRMImporter.LoadVrmAsync(path, OnLoadedVrm);
         }
-#endif
     }
 
 	void OnLoadedVrm(GameObject vrm)
