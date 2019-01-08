@@ -1,6 +1,6 @@
 # VRoid Models
 
-The following character models was downloaded from [VRoid Hub](https://hub.vroid.com/).
+The following character models can be downloaded from [VRoid Hub](https://hub.vroid.com/).
 
 - [Vita](https://hub.vroid.com/characters/6193066630030526355/models/3525604181073039892)
 
