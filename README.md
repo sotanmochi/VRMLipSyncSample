@@ -18,10 +18,8 @@ The following assets are included in this project.
 - [UniVRM v0.44](https://github.com/dwango/UniVRM/releases/tag/v0.44)  
 Licensed under the MIT License. Copyright (c) DWANGO Co., Ltd.  
 
-The following 3D character models are included in this project.
+The following character model is included in this project.
 - [Vita](https://hub.vroid.com/characters/6193066630030526355/models/3525604181073039892)
-
-- [Darkness_Shibu](https://hub.vroid.com/characters/675572020956181239/models/6535695942068248968)
 
 ## License
 - [MIT License](https://github.com/sotanmochi/VRMLipSyncSample/blob/master/LICENSE.txt)
