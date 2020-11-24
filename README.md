@@ -10,7 +10,7 @@ SALSA
 
 ## Third party assets
 You need to import the following assets.
-- [Oculus Lipsync Unity Plugin 1.30.0](https://developer.oculus.com/downloads/package/oculus-lipsync-unity/1.30.0/)
+- [Oculus Lipsync Unity Plugin 20.0.0](https://developer.oculus.com/downloads/package/oculus-lipsync-unity/20.0.0/)
 
 - [SALSA With RandomEyes](https://assetstore.unity.com/packages/tools/animation/salsa-with-randomeyes-16944)
 
@@ -25,4 +25,4 @@ The following character model is included in this project.
 - [MIT License](https://github.com/sotanmochi/VRMLipSyncSample/blob/master/LICENSE.txt)
 
 ## Tested Environment
-- Unity 2017.4.14f1
+- Unity 2018.4.28f1
