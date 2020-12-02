@@ -4,14 +4,18 @@ Assets/Crazy Minnow Studio/
 Assets/Crazy Minnow Studio.meta
 Assets/Gizmos/
 Assets/Gizmos.meta
+Assets/Plugins/Crazy Minnow Studio/
+Assets/Plugins/Crazy Minnow Studio.meta
 
 # Unity generated
-[Aa]pp/
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
+/[Aa]pp/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory
