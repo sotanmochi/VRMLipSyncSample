@@ -12,7 +12,7 @@ SALSA
 You need to import the following assets.
 - [Oculus Lipsync Unity Plugin 20.0.0](https://developer.oculus.com/downloads/package/oculus-lipsync-unity/20.0.0/)
 
-- [SALSA With RandomEyes](https://assetstore.unity.com/packages/tools/animation/salsa-with-randomeyes-16944)
+- [SALSA LipSync Suite v2](https://assetstore.unity.com/packages/tools/animation/salsa-lipsync-suite-148442)
 
 The following assets are included in this project.
 - [UniVRM v0.44](https://github.com/dwango/UniVRM/releases/tag/v0.44)  
